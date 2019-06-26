@@ -1,4 +1,10 @@
+Written by Errol Jordheim
+
 This is a frisbee flight simulator written entirely in python 3
+
+This was initially written as a final project for a computational physics course, but I have
+continued to add to in since the completion of the course. I intend to continue adding features
+and making the code more efficient as I find time to do so.
 
 =======
 Physics
